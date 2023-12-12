@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.deba04de.css",
+    "main.js": "/static/js/main.3d972819.js",
+    "static/media/resume.pdf": "/static/media/resume.a1cd221bdce636c13b2a.pdf",
+    "static/media/Pandemic.png": "/static/media/Pandemic.929926cfaad0a2882aa8.png",
+    "static/media/MusicWeb.jpg": "/static/media/MusicWeb.186dbf0f275b385a5343.jpg",
+    "static/media/portfolio.jpg": "/static/media/portfolio.3ccc4e6dadd84f353e86.jpg",
+    "static/media/Webchat.jpg": "/static/media/Webchat.42d224633ff82edc82ed.jpg",
+    "static/media/boy.png": "/static/media/boy.73e0b8becb1a6918f9a4.png",
+    "static/media/ClipExplain.jpg": "/static/media/ClipExplain.ed1a294f2a1e68cfcd03.jpg",
+    "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/index.html",
+    "main.deba04de.css.map": "/static/css/main.deba04de.css.map",
+    "main.3d972819.js.map": "/static/js/main.3d972819.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deba04de.css",
+    "static/js/main.3d972819.js"
+  ]
+}
